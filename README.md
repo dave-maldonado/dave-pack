@@ -1,3 +1,6 @@
+This is my personal "User Pack" for Emacs Live. It's setup for Ruby and Hakell develpment and uses the solarized color theme. Below are the instructions for setting up your own User Pack.
+
+
 ## User Pack Template
 
 This is a template for your own user (or other purpose) pack.
