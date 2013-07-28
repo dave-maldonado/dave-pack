@@ -1,3 +1,21 @@
 [submodule "lib/rinari"]
 	path = lib/rinari
 	url = https://github.com/eschulte/rinari.git
+[submodule "lib/haskell-mode"]
+	path = lib/haskell-mode
+	url = https://github.com/haskell/haskell-mode.git
+[submodule "lib/cucumber.el"]
+	path = lib/cucumber.el
+	url = https://github.com/michaelklishin/cucumber.el.git
+[submodule "lib/haml-mode"]
+	path = lib/haml-mode
+	url = https://github.com/nex3/haml-mode.git
+[submodule "lib/rspec-mode"]
+	path = lib/rspec-mode
+	url = https://github.com/pezra/rspec-mode.git
+[submodule "lib/web-mode"]
+	path = lib/web-mode
+	url = https://github.com/fxbois/web-mode.git
+[submodule "lib/emacs-color-theme-solarized"]
+	path = lib/emacs-color-theme-solarized
+	url = https://github.com/sellout/emacs-color-theme.solarized.git
