@@ -20,3 +20,6 @@
 
 ;; Ruby stuffs
 (live-load-config-file "ruby-conf.el")
+
+;; Haskell stuffs
+(live-load-config-file "haskell-conf.el")

@@ -29,7 +29,7 @@
   '(rspec-install-snippets))
 
 ;; Cucumber mode
-(add-to-list 'load-path "~/.live-packs/dave-pack/lib/cucumber")
+(add-to-list 'load-path "~/.live-packs/dave-pack/lib/cucumber.el")
 (require 'feature-mode)
 (add-to-list 'auto-mode-alist '("\.feature$" . feature-mode))
 
