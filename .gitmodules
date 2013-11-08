@@ -19,3 +19,6 @@
 [submodule "lib/emacs-color-theme-solarized"]
 	path = lib/emacs-color-theme-solarized
 	url = https://github.com/sellout/emacs-color-theme-solarized.git
+[submodule "lib/autopair"]
+        path = lib/autopair
+        url = https://github.com/capitaomorte/autopair.git

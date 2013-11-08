@@ -23,3 +23,9 @@
 
 ;; Haskell stuffs
 (live-load-config-file "haskell-conf.el")
+
+;; Scheme stuffs (geiser)
+(live-load-config-file "scheme-conf.el")
+
+;; SML mode
+(live-load-config-file "sml-conf.el")
